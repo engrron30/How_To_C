@@ -1,0 +1,11 @@
+To start understanding C, we must know how to construct a simple C program. Let's start by creating a main program.
+
+Main program consists the following:
+int main() {
+	return 0;
+}
+
+Try to create your own main file named as main.c using VIM! Hint: Type vim main.c:
+# Waits for user to input vim main.c
+
+
